@@ -1,5 +1,3 @@
-# Event watcher contract examples
-
 ## Quick Start
 
 ```bash
